@@ -3,6 +3,19 @@
 - 🌱 I’m currently doing my thesis on autonomous drones for mapping and navigation through SLAM and UWB Technology.
 - 💞️ I’m looking to collaborate on Mapping and Perception Automation for Precision Farming through ground and UAV vehicles, mapping thorugh autonomous drones and swarm UAV technology with localization using UWB. 
 - 📫 How to reach me through LinkedIn: https://www.linkedin.com/in/alladi-janesh
+The Projects I have worked on are listed below.  (Some of the projects are private and will be open sourced soon).
+
+Mapping of Indoor areas through Drones using UWB technology. (Master's Thesis).
+
+SDS Forest Planter. (Based on Autonomous Mobile robots project).
+
+Tracking of an Autonomous mobile robot using sensor fusion. (Based on sensor fusion and particle filters).
+
+Balancing of a segway robot. (Based on Digital control systems which uses MATLAB and SIMULINK).
+
+Robotic arm manipulation. (Based on mechanical manipulation of a robotic arm using a simulator and ROS).
+
+De-Noising of ECG Signals using Adaptive filters. (Bachelor's thesis project, based on digital signal processing, using MATLAB toolbox).
 
 <!---
 JaneshAJ/JaneshAJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
