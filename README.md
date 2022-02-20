@@ -3,6 +3,8 @@
 - 🌱 I’m currently doing my thesis on autonomous drones for mapping and navigation through SLAM and UWB Technology.
 - 💞️ I’m looking to collaborate on Mapping and Perception Automation for Precision Farming through ground and UAV vehicles, mapping thorugh autonomous drones and swarm UAV technology with localization using UWB. 
 - 📫 How to reach me through LinkedIn: https://www.linkedin.com/in/alladi-janesh
+
+
 The Projects I have worked on are listed below.  (Some of the projects are private and will be open sourced soon).
 
 Mapping of Indoor areas through Drones using UWB technology. (Master's Thesis).
