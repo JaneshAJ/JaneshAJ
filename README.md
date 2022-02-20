@@ -1,25 +1,31 @@
-- 👋 Hi, I’m @JaneshAJ
-- 👀 The degree that I am pursuing is called as ICT Innovation. It is a two country program. I did my first year masters at TU Berlin, and doing my second year masters at Aalto University. I am interested in Robotics and UAV automation for various applications in the field of Mapping, precision farming and similar fields. I did my bachelors in Hyderabad, India at GITAM University in Electronics and Communication Engineering. 
-- 🌱 I’m currently doing my thesis on autonomous drones for mapping and navigation through SLAM and UWB Technology.
-- 💞️ I’m looking to collaborate on Mapping and Perception Automation for Precision Farming through ground and UAV vehicles, mapping thorugh autonomous drones and swarm UAV technology with localization using UWB. 
-- 📫 How to reach me through LinkedIn: https://www.linkedin.com/in/alladi-janesh
+# Alladi Janesh 👨‍💻
 
+## Hi there 👋!
 
-The Projects I have worked on are listed below.  (Some of the projects are private and will be open sourced soon).
+### I'm Alladi Janesh! 
+A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomous Systems. I am an automation enthusiast working with many projects related to Robotics and AI.
 
-Mapping of Indoor areas through Drones using UWB technology. (Master's Thesis).
+## Projects
+*_Some repositories are currently Private. (They will be Open Sourced soon)._
 
-SDS Forest Planter. (Based on Autonomous Mobile robots project).
+### Mapping of Indoor areas through Drones using UWB technology
+ - ROS usage for Simulating an indoor Drone environment with UWB Technology
+ - Analysis of Localization and Mapping through different Sensors.
 
-Tracking of an Autonomous mobile robot using sensor fusion. (Based on sensor fusion and particle filters).
+### Sensor Fusion for Autonomous Robot Tracking 
+ - Algorithms for tracking an autonomous robot by using sensor data from the IMU and camera system.
 
-Balancing of a segway robot. (Based on Digital control systems which uses MATLAB and SIMULINK).
+### SDS Forest Planter. 
+ - Architecture and Design of a fully autonomous planter device to plant a forest. 
 
-Robotic arm manipulation. (Based on mechanical manipulation of a robotic arm using a simulator and ROS).
+### Balancing of a segway robot. 
+ - Balance a segway robot using Digital control theory, powered by MATLAB and SIMULINK.
+ - Analysis of stability of a segway robot through different control algorithms.
 
-De-Noising of ECG Signals using Adaptive filters. (Bachelor's thesis project, based on digital signal processing, using MATLAB toolbox).
+### Robotic Arm Manipulation.
+ - Algorithms for manipulating a PUMA robotic arm through different robotic algorithms.
+ - Using PUMA simulator, C++ and ROS to program the arm.
 
-<!---
-JaneshAJ/JaneshAJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### De-Noising of ECG Signals using Adaptive filters.
+ - Removing noise from ECG signals recorded from EKG machines using Signal processing.
+ - Using MATLAB's signal processing toolbox, control system toolbox and Adaptive filtering techniques such as LMS and RLS. 
