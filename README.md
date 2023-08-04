@@ -8,7 +8,7 @@ A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomo
 ## Projects
 *_Some repositories are currently Private. (They will be Open Sourced soon)._
 
-### Mapping of Indoor areas through Drones using UWB technology*
+### On the performace of UWB Technology in Indoors for UAV Localization*
  - ROS usage for Simulating an indoor Drone environment with UWB Technology
  - Analysis of Localization and Mapping through different Sensors.
 
