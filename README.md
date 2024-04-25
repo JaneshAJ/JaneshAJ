@@ -3,7 +3,7 @@
 ## Hi there 👋!
 
 ### I'm Alladi Janesh! 
-A student at 👨‍💻 Aalto University, pursuing a Masters degree in Autonomous Systems. I am an automation enthusiast working with many projects related to Robotics and AI.
+I have a Masters degree in Autonomous Systems from Aalto university and TU Berlin. I am an automation enthusiast working with many projects related to Robotics and AI.
 
 ## Projects
 *_Some repositories are currently Private. (They will be Open Sourced soon)._
